@@ -13,10 +13,13 @@ I’m always looking for opportunities to **learn, collaborate, and contribute**
 ### 🏠 AnnaHomestay  
 - Developed a cross-platform homestay booking app using the **Flutter framework**.  
 - Integrated **Firebase** for backend services, including user authentication, real-time database management, and booking functionalities.  
+🔗 [View Repository](https://github.com/amaliasyazana/homestayBooking)  
 
 ### 🍽️ MerantiOrder  
 - Built a cross-platform food ordering system with **Flutter framework**.  
 - Architected the app using **MVVM (Model-View-ViewModel)** to ensure clean code separation, maintainability, and scalability.  
+🔗 [View Repository](https://github.com/amaliasyazana/merantiOrder)  
+ 
 
 ---
 
