@@ -3,7 +3,7 @@
 I am an enthusiastic **Software Developer** who thrives on exploring technology and innovation.  
 I have a strong background in **Flutter**, **Dart**, and **Unity**, where I focus on building applications that are not only functional but also maintainable and user-friendly.  
 
-Projects like **AnnaHomestay** and **MerantiOrder** reflect my commitment to creating practical solutions, while my continuous involvement in development helps me sharpen my skills and stay curious.  
+Projects like **AnnaHomestay** and **MerantiOrder** reflect my commitment to creating practical solutions using **Flutter** and **Dart**, together with my continuous involvement in **varoius** **Unity** projects development helps me sharpen my skills and stay curious.  
 I’m always looking for opportunities to **learn, collaborate, and contribute** to meaningful projects within the community. ⚡  
 
 ---
