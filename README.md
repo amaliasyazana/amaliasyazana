@@ -11,7 +11,8 @@ I’m always looking for opportunities to **learn, collaborate, and contribute**
 ## ✨ Key Contributions ✨  
 
 ### 🏠 AnnaHomestay  
-- Developed a cross-platform homestay booking app using the **Flutter framework**.  
+- Developed a cross-platform homestay booking app using the **Flutter framework**.
+- Architected the app using **MVC (Model-View-Controller) + Repository** to ensure clean code separation, maintainability, and scalability.  
 - Integrated **Firebase** for backend services, including user authentication, real-time database management, and booking functionalities.  
 🔗 [View Repository](https://github.com/amaliasyazana/homestayBooking)  
 
